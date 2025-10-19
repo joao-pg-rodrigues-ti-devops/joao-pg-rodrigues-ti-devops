@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <a href="https://github.com/joao-p-g-rodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-p-g-rodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-p-g-rodrigues&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/joao-pg-rodrigues-ti-devops">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-pg-rodrigues-ti-devops&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pg-rodrigues-ti-devops&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 
               
   <a href="https://discord.gg/GbFKErvFPE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/joaopgrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/joao-pg-rodrigues-ti-devops/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/joao-p-g-rodrigues/joao-p-g-rodrigues/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/joao-pg-rodrigues-ti-devops/joao-pg-rodrigues-ti-devops/blob/output/github-contribution-grid-snake.svg)
  
 </div>
