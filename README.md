@@ -143,8 +143,12 @@ DevOps & CI/CD ███░░░░░░░░░░░ 25%
 ---
 
 <div align="center">
-
+  
 ### 🐍 Contribution Snake
+
+  <a href="https://github.com/joao-pg-rodrigues-ti-devops">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-pg-rodrigues-ti-devops&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pg-rodrigues-ti-devops&layout=compact&langs_count=7&theme=dracula"/>
 
 ![Snake animation](https://github.com/joao-pg-rodrigues-ti-devops/joao-pg-rodrigues-ti-devops/blob/output/github-contribution-grid-snake.svg)
 
@@ -154,28 +158,5 @@ DevOps & CI/CD ███░░░░░░░░░░░ 25%
 
 ⭐ Se curtiu meu perfil, deixa uma estrela em algum repo!
 
-</div>
 
-<div align="center">
-  <a href="https://github.com/joao-pg-rodrigues-ti-devops">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-pg-rodrigues-ti-devops&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pg-rodrigues-ti-devops&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div style="display: inline_block"><br>
-
-  <img align="center" alt="jao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-  <img align="center" alt="jao-arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="jao-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="jao-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="Rafapic"height="150" style="borderradius:50px;" src="https://media.tenor.com/eQlXwfXcQ4YAAAAC/anime-computer.gif">
-
-  <!-- 
-    <img align="center" alt="jao-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-    <img align="center" alt="jao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="jao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="jao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  -->
-  
 </div>
