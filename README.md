@@ -146,11 +146,9 @@ DevOps & CI/CD ███░░░░░░░░░░░ 25%
   
 ### 🐍 Contribution Snake
 
-  <a href="https://github.com/joao-pg-rodrigues-ti-devops">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-pg-rodrigues-ti-devops&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pg-rodrigues-ti-devops&layout=compact&langs_count=7&theme=dracula"/>
 
 ![Snake animation](https://github.com/joao-pg-rodrigues-ti-devops/joao-pg-rodrigues-ti-devops/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
